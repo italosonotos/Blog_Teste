@@ -1,12 +1,9 @@
 {
   "name": "blog",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.0.0",
   "type": "module",
-  "homepage": "https://italosonotos.github.io/Blog_Teste",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
